@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: LIFT-ELT is here
 description:  Important information will be here soon!
 
+include:
+  - _pages
