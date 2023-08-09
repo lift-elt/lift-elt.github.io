@@ -7,6 +7,8 @@ remote_theme: pages-themes/leap-day@v0.2.0
 # remote_theme: pages-themes/modernist@v0.2.0 # https://github.com/pages-themes/modernist
 # remote_theme: pages-themes/tactile@v0.2.0 # https://github.com/pages-themes/tactile
 
+markdown: kramdown
+
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
