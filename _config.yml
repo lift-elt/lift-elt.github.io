@@ -7,6 +7,7 @@ description:  Important information will be here soon!
 # remote_theme: pages-themes/modernist@v0.2.0 # https://github.com/pages-themes/modernist
 # remote_theme: pages-themes/tactile@v0.2.0 # https://github.com/pages-themes/tactile
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: aqua
 
 markdown: kramdown
 
@@ -20,10 +21,12 @@ paginate: 1 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-collections:
-  pages:
-    output: true
-    permalink: /:path/
+include:
+  - _pages
+# collections:
+#   pages:
+#     output: true
+#     permalink: /:path/
 
 plugins:
   - jekyll-paginate
