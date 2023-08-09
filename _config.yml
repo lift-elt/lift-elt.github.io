@@ -29,7 +29,7 @@ include:
 #     permalink: /:path/
 defaults:
   - scope:
-      path: ""
+      path: "/"
       type: pages
     values:
       layout: single
