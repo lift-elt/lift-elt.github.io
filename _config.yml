@@ -3,8 +3,8 @@ title: LIFT-ELT is here
 description:  Important information will be here soon!
 
 # see https://github.com/pages-themes/leap-day for info about leap day theme
-remote_theme: pages-themes/leap-day@v0.2.0
-# remote_theme: pages-themes/modernist@v0.2.0 # https://github.com/pages-themes/modernist
+# remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0 # https://github.com/pages-themes/modernist
 # remote_theme: pages-themes/tactile@v0.2.0 # https://github.com/pages-themes/tactile
 
 markdown: kramdown
