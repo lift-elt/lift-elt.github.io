@@ -8,6 +8,8 @@ masthead_title: "LIFT-ELT Title"
 show_date: false
 read_time: true
 words_per_minute: 200
+
+# navigation is in _data/navigation.html
 # logo: /assets/images/logo.png
 # see https://github.com/pages-themes/leap-day for info about leap day theme
 # remote_theme: pages-themes/leap-day@v0.2.0
