@@ -3,21 +3,31 @@
 ## FREE Webinar Series
 
 SUPPORTING MULTILINGUAL STUDENTS IN SCHOOLS AND CLASSROOMS
- ** Free 1-hour virtual event **
- Monday, September 18, 2023  5:30pm Eastern/4:30pm Central
+**Free 1-hour virtual event**
 
- ### Featured Presentations
- Nurturing Relationships and Empowering our Refugee Scholars: A Path to Success
- Dr. Marissa Winmill, NBCT
- Kent School District, WA
- 
- Creating an Inclusive Culture: One Community's Voice
- Heidi Booker, ESL Teacher 
- Jefferson County Schools, TN
+Monday, September 18, 2023  
 
- OVERVIEW OF PRESENTATIONS COMING SOON
+*5:30pm Eastern/4:30pm Central*
 
-### MORE ABOUT OUR SPEAKERS
+### Featured Presentations
+
+**Nurturing Relationships and Empowering our Refugee Scholars: A Path to Success**
+
+Dr. Marissa Winmill, NBCT
+
+Educator, Mentor, Coach, Consultant
+
+Kent School District, WA
+
+**Creating an Inclusive Culture: One Community's Voice**
+
+Heidi Booker, ESL Teacher 
+
+Jefferson County Schools, TN
+
+### Information on presentations coming soon!
+
+### MORE ABOUT OUR FEATURED SPEAKERS
 **Dr. Marissa Winmill**, a distinguished Filipino American educator, embodies educational excellence with the Golden Apple Award and national board certification. Her impact at Kent-Meridian High School is transformative, inspiring multilingual learners. A doctorate in Educational Leadership from the esteemed American College of Education underscores her expertise.
 
 Dedicating six years to the Professional Educator Standards Board and leading educators state training,  Dr. Winmill champions inclusivity and diversifies the educator workforce, empowering multilingual students and paraeducators. Her adept grant writing and transformative professional development foster equitable communities. Her leadership expanded the Refugee Educator Academy and co-authored a pivotal book chapter on refugee education.
