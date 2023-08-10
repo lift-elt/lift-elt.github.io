@@ -1,4 +1,10 @@
-
+---
+# layout: splash # comment to get left sidebar back
+# title: This is my title # adds a title at top of page
+# See https://mmistakes.github.io/minimal-mistakes/docs/helpers/ for more info
+classes:
+  - wide
+---
 
 ## FREE Webinar Series
 
