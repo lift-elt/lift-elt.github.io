@@ -8,48 +8,118 @@ masthead_title: "LIFT-ELT"
 show_date: false
 read_time: true
 words_per_minute: 200
+atom_feed:
+  hide: true
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# navigation is in _data/navigation.html
-# logo: /assets/images/logo.png
-# see https://github.com/pages-themes/leap-day for info about leap day theme
-# remote_theme: pages-themes/leap-day@v0.2.0
-# remote_theme: pages-themes/modernist@v0.2.0 # https://github.com/pages-themes/modernist
-# remote_theme: pages-themes/tactile@v0.2.0 # https://github.com/pages-themes/tactile
-remote_theme: mmistakes/minimal-mistakes
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+email: amber.warren@gmail.com
 minimal_mistakes_skin: dirt
+search: false
 
+# Build settings
 markdown: kramdown
-
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-show_downloads: false # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-#google_analytics: [Your Google Analytics tracking ID]
-
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+#link: /:categories/:title/
 paginate: 1 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: false
+
 include:
   - _pages
-# collections:
-#   pages:
-#     output: true
-#     permalink: /:path/
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  # - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-pdf-embed
+  - jekyll-titles-from-headings
+
+
+  # This is the stuff on the left of the home page
+author:
+  name   : "Amber Warren"
+  avatar : "/assets/images/amber-warren.jpg"
+  bio    : "English language learning and qualitative research specialist."
+  links:
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/ambernwarren"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/amber-warren"
+
+footer:
+  links:
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/ambernwarren"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/amber-warren"
+      
 defaults:
+  # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # _pages
+
   - scope:
-      path: "/"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-pdf-embed
+# category_archive:
+#   type: liquid
+#   path: /categories/
+head_scripts: 
+  - https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.8.335/pdf.min.js
   
+tag_archive:
+  type: liquid
+  path: /tags/
+
+theme: jekyll-theme-modernist
