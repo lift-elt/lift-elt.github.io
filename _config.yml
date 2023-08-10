@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: LIFT-ELT
-subtitle: Support for multilingual learners | Planning from the ground up
+subtitle: Planning from the ground up
 name: LIFT ELT
 description:  Important information will be here soon!
-url: https://lift-elt.github.io/
+url: https://www.lift-elt.com
 masthead_title: "LIFT-ELT"
 show_date: false
 read_time: true
@@ -73,7 +73,8 @@ plugins:
 author:
   name   : "LIFT ELT"
   avatar : "/assets/images/LIFTlogo.png"
-  bio    : "Support for multilingual learners: Planning from the ground up."
+  bio    : "Support for multilingual learners
+  Planning from the ground up."
   links:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
