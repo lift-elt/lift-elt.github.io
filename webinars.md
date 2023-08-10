@@ -2,24 +2,23 @@
 
 ## FREE Webinar Series
 
-SUPPORTING MULTILINGUAL STUDENTS IN SCHOOLS AND CLASSROOMS
+SUPPORTING MULTILINGUAL STUDENTS IN SCHOOLS 
+AND CLASSROOMS
 
 **Free 1-hour virtual event**
 
 Monday, September 18, 2023  
 *5:30pm Eastern/4:30pm Central*
-
+[REGISTER HERE](https://forms.gle/EwDBYh34ZQQc8rvH9)
 ### Featured Presentations
 
 **Nurturing Relationships and Empowering our Refugee Scholars: A Path to Success**
-
-Dr. Marissa Winmill, NBCT
-Educator, Mentor, Coach, Consultant
+*Dr. Marissa Winmill, NBCT,*
+*Educator, Mentor, Coach, Consultant*
 Kent School District, WA
 
 **Creating an Inclusive Culture: One Community's Voice**
-
-Heidi Booker, ESL Teacher 
+*Heidi Booker, ESL Teacher* 
 Jefferson County Schools, TN
 
 ### Information on presentations coming soon!
