@@ -1,7 +1,14 @@
 theme: jekyll-theme-minimal
-title: LIFT-ELT is here
+title: LIFT-ELT
+subtitle: Helping teachers with language learners
+name: Amber Warren, PhD
 description:  Important information will be here soon!
-
+url: https://lift-elt.github.io/
+masthead_title: "LIFT-ELT Title"
+show_date: false
+read_time: true
+words_per_minute: 200
+# logo: /assets/images/logo.png
 # see https://github.com/pages-themes/leap-day for info about leap day theme
 # remote_theme: pages-themes/leap-day@v0.2.0
 # remote_theme: pages-themes/modernist@v0.2.0 # https://github.com/pages-themes/modernist
@@ -43,3 +50,4 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-pdf-embed
+  
