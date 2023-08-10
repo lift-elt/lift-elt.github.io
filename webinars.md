@@ -13,13 +13,11 @@ Monday, September 18, 2023
 ### Featured Presentations
 
 **Nurturing Relationships and Empowering our Refugee Scholars: A Path to Success**
-
 *Dr. Marissa Winmill, NBCT,*
 *Educator, Mentor, Coach, Consultant*
 Kent School District, WA
 
 **Creating an Inclusive Culture: One Community's Voice**
-
 *Heidi Booker, ESL Teacher* 
 Jefferson County Schools, TN
 
