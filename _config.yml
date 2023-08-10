@@ -71,9 +71,9 @@ plugins:
 
   # This is the stuff on the left of the home page
 author:
-  name   : "Amber Warren"
+  name   : "LIFT ELT"
   avatar : "/assets/images/LIFTlogo.png"
-  bio    : "English language learning and qualitative research specialist."
+  bio    : "Support for multilingual learners | Planning from the ground up"
   links:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
