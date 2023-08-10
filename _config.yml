@@ -72,7 +72,7 @@ plugins:
   # This is the stuff on the left of the home page
 author:
   name   : "LIFT ELT"
-  avatar : "/assets/images/LIFTlogo_new.png"
+  avatar : "/assets/images/LIFTlogo.png"
   bio    : "Support for multilingual learners:
   Planning from the ground up."
   links:
