@@ -73,7 +73,7 @@ plugins:
 author:
   name   : "LIFT ELT"
   avatar : "/assets/images/LIFTlogo.png"
-  bio    : "Support for multilingual learners
+  bio    : "Support for multilingual learners:
   Planning from the ground up."
   links:
     # - label: "Twitter"
