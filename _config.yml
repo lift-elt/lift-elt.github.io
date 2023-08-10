@@ -72,7 +72,7 @@ plugins:
   # This is the stuff on the left of the home page
 author:
   name   : "Amber Warren"
-  avatar : "/assets/images/amber-warren.jpg"
+  avatar : "/assets/images/LIFTlogo.png"
   bio    : "English language learning and qualitative research specialist."
   links:
     # - label: "Twitter"
