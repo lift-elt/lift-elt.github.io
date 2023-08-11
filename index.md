@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: LIFTlogo_cropped.png
+  image: BlueOrangeLogoNoWordsTransparent.png
 published: true
 ---
 
