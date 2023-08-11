@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: BlueOrangeLogoNoWordsTransparent.png
+  image: BlueOrangeLogoNoWords.png
 published: true
 ---
 
