@@ -14,7 +14,7 @@ Free 1-hour virtual events!
 > [***Register Here***](https://forms.gle/mbiWYcfNFgBuLfbx8){: .btn}
 
 
-*Two experienced EL educators will share examples from their work supporting multilingual student populations and connecting with students' families and communities. Gain ideas and strategies for working with refugee students and developing and sustaining long-term connections with students' families. Time for discussion and questions will be provided!*
+*Two experienced EL educators will share examples from their work supporting multilingual student populations and connecting with students' families and communities. Gain ideas and strategies for working with refugee students and developing and sustaining long-term family-school partnerships. Time for discussion and questions will be provided!*
 
 Featured Presentations
 ------------
