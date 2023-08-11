@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Fall 2023 Webinars
 description: Supporting MLLs in schools and classrooms
 ---
