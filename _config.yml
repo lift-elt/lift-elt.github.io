@@ -59,6 +59,7 @@ collections:
   resources:
     output: true
     permalink: /resources/:name/
+
 sass:
   sass_dir: /assets/css/_sass
   style: compressed
@@ -71,7 +72,7 @@ exclude:
   - LICENSE.md
 
 plugins:
-  #- jekyll-seo-tag
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
