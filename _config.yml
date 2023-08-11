@@ -3,8 +3,9 @@
 title: LIFT ELT
 description: Supporting MLLs | Planning from the Ground Up 
 
-baseurl: /    #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+# baseurl: "/"    #name of GitHub repository
+relative_url: "/"
+# url: "/" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
@@ -48,6 +49,7 @@ collections:
     output: true
     permalink: /webinars/:name/
     order:
+      - fall2023webinars.md
       - shortProject.md
       - longerProjectTitle.md
       - redirect.md
