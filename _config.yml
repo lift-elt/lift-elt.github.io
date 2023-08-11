@@ -69,7 +69,7 @@ exclude:
   - LICENSE.md
 
 plugins:
-  - jekyll-seo-tag
+  #- jekyll-seo-tag
   - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
