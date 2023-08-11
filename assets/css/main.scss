@@ -34,3 +34,21 @@ $on-laptop: 1000px;
 .profile {
   border-style: hidden;
 }
+
+.register-button {
+  border-radius: 12px;
+  background-color: #04aa6d;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  margin: 4px 2px;
+}
+
+input.register-button:hover {
+  background: lightgreen;
+  color: black;
+}
