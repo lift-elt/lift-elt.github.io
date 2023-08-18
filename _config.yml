@@ -15,6 +15,8 @@ paginate_path: /projects/page:num/
 
 # NOTE: See assets/css/_sass/variables.scss to change font and colors
 # See https://www.w3schools.com/cssref/css_websafe_fonts.php for fonts that are "safe"
+# see also https://fonts.google.com/
+# Color generator: https://uicolors.app/create?utm_source=tldrwebdev
 
 # # Social media links in footer
 # twitter: "#"
