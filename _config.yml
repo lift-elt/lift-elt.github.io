@@ -17,6 +17,7 @@ paginate_path: /projects/page:num/
 # See https://www.w3schools.com/cssref/css_websafe_fonts.php for fonts that are "safe"
 # see also https://fonts.google.com/
 # Color generator: https://uicolors.app/create
+# Markdown notes: https://kramdown.gettalong.org/quickref.html
 
 # # Social media links in footer
 # twitter: "#"
