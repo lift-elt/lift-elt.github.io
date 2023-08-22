@@ -32,8 +32,7 @@ Heidi Booker, MS <br>
 *ESL Teacher*<br>
 *Jefferson County Schools, Tennessee*<br>
 
-> Summary of presentation 
-> coming soon!
+> "What do you need from the school and How can we help?” Two simple questions asked of our EL parents and families have initiated an ongoing conversation for the past five years at White Pine School in Jefferson County, TN. In this session, I'll share how this conversation has nurtured school-home communication, integrated cultural celebrations, provided adult English classes, fostered parent engagement in their children’s education, planted a community garden, addressed challenges of bilingual families in a monolingual educational system, and ultimately established Familia ESL: a Multilingual Parent Association.
 
 ### Meet our Featured Speakers ###
 **Dr. Marissa Winmill,** a distinguished Filipino American educator, embodies educational excellence with the Golden Apple Award and national board certification. Her impact at Kent-Meridian High School is transformative, inspiring multilingual learners. A doctorate in Educational Leadership from the esteemed American College of Education underscores her expertise.
