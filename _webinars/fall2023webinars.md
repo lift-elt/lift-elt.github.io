@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Fall 2023 Webinars
-description: Supporting MLLs in schools and classrooms
+title: Supporting MLLs in schools and classrooms <br> Sept. 18, 2023
+description: Free 1-hour virtual event
 ---
 
 Free 1-hour virtual events!
@@ -23,8 +23,7 @@ Dr. Marissa Winmill, NBCT <br>
 *Educator, Mentor, Coach, Consultant* <br>
 *Kent School District, Washington* <br>
 
-> Summary of presentation 
-> coming soon!
+> In a world where displaced individuals often face challenges that go beyond the academic realm, the power of nurturing relationships and empowerment cannot be underestimated. This webinar will explore the profound impact of fostering supportive connections within educational settings, among peers, families, and communities. Discover how these relationships serve as a catalyst for success, propelling refugee scholars towards personal growth, academic excellence, and a brighter future. Through inspiring case studies, insightful strategies, and real-world examples, we will delve into the ways we can collectively create a more inclusive and empowering educational environment for these resilient individuals. Join us to learn, engage, and contribute to a discussion that highlights the incredible potential that lies within nurturing relationships and empowering refugee scholars.
 
 **Creating an Inclusive Culture: One Community's Voice**
 
