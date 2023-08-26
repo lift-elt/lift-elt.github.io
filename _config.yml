@@ -55,8 +55,8 @@ collections:
     output: true
     permalink: /webinars/:name/
     order:
-      - fall2023webinars.md
-      - SupportingMLs-Webinar-Nov2023.md
+      - 2023-09-supporting-mlls.md
+      - 2023-10-supporting-mlls-part-2.md
   resources:
     output: true
     permalink: /resources/:name/
