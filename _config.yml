@@ -56,12 +56,7 @@ collections:
     permalink: /webinars/:name/
     order:
       - fall2023webinars.md
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - SupportingMLs-Webinar-Nov2023.md
   resources:
     output: true
     permalink: /resources/:name/
