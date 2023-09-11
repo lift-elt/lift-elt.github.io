@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /about
+permalink: /about/
 profile:
   align: right
   image: BlueOrangeLogoCropped.png
@@ -23,6 +23,6 @@ Looking for professional learning targeted to your school, team, or district? Le
 
 Credentials:
 
-Amber Warren holds a PhD in Literacy, Language and Culture from Indiana University, Bloomington, a Master’s in the Theory and Practice of Teacher Education from the University of Tennessee, Knoxville, and a B.A. in English from Shenandoah University, Virginia. She has over 2 decades of experience in teaching and teacher education and has served as a K-6 English language teacher, teacher development, and accreditation support specialist in international and US classrooms, language schools, and universities.
+**Amber Warren** holds a PhD in Literacy, Language and Culture from Indiana University, Bloomington, a Master’s in the Theory and Practice of Teacher Education from the University of Tennessee, Knoxville, and a B.A. in English from Shenandoah University, Virginia. She has over 2 decades of experience in teaching and teacher education and has served as a K-6 English language teacher, teacher development, and accreditation support specialist in international and US classrooms, language schools, and universities.
 
-Natalia Ward received a PhD in Literacy Studies from the University of Tennessee, Knoxville; a Master’s in the Theory and Practice of Teacher Education from the University of Tennessee, Knoxville, and a B.A. in English as a Foreign Language Education, Linguistics from Kaluga State University, Russia. She has taught English as an additional language to children, adolescents, and adults; worked with schools to deliver professional development; and designed and delivered online and in person graduate and undergraduate university courses.
+**Natalia Ward** received a PhD in Literacy Studies from the University of Tennessee, Knoxville; a Master’s in the Theory and Practice of Teacher Education from the University of Tennessee, Knoxville, and a B.A. in English as a Foreign Language Education, Linguistics from Kaluga State University, Russia. She has taught English as an additional language to children, adolescents, and adults; worked with schools to deliver professional development; and designed and delivered online and in person graduate and undergraduate university courses.
