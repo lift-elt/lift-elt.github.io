@@ -33,6 +33,8 @@ GEM
       webrick (~> 1.7)
     jekyll-email-protect (1.1.0)
     jekyll-paginate (1.1.0)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
@@ -77,6 +79,7 @@ DEPENDENCIES
   jekyll
   jekyll-email-protect
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-seo-tag
   jekyll-target-blank
   webrick (~> 1.7)
