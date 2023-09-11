@@ -2,6 +2,11 @@
 layout: default
 title: Supporting MLLs in schools and classrooms <br> Sept. 18, 2023
 description: Free 1-hour virtual event
+
+redirect_from: 
+  - /webinars/fall2023webinars/
+
+
 ---
 
 Free 1-hour virtual events!
