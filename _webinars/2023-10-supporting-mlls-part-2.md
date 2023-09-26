@@ -13,7 +13,7 @@ Free 1-hour virtual event!
 
 <p style="text-align: center;"><input class="register-button" type="button" onclick="location.href='https://forms.gle/SwWdFEyyRTMrEqKd9';" value="Register Here" /></p>
 
-*Join us as two more experienced EL educators share stories and expertise through practical examples from their work supporting multilingual student populations and connecting with students' families and communities. Gain ideas and strategies for making EL/classroom teacher co-teaching models work and for supporting students' developing literacy practices. Time for discussion and questions will be provided!*
+*Join us as two experienced EL educators share stories and expertise through practical examples from their work supporting multilingual student populations and connecting with students' families and communities. Gain ideas and strategies for making EL/classroom teacher co-teaching models work and for supporting students' developing literacy practices. Time for discussion and questions will be provided!*
 
 Featured Presentations
 ------------
@@ -23,7 +23,7 @@ Jamie Wolfe, EdS <br>
 *Instructional Coach* <br>
 *Knox County Schools, TN* <br>
 
-> Summary of presentation coming soon!
+> Co-teaching can be an excellent support for SIFE/SLIFE students, developing both content knowledge and language proficiency. If you are considering co-teaching or have been asked to co-teach, check out this presentation to learn more about conditions that allow for effective co-teaching and instructional models for co-teaching.  The presenter and participants will also share experiences with co-teaching. 
 
 ### Choice and Voice: Motivating SIFE/SLIFE Students Through Critical Literacy
 
