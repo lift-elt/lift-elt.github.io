@@ -3,7 +3,8 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: both-square.svg
+  # image: both-square.svg
+  image: square-on-top.svg
 published: true
 # adjust logo color in main.scss
 ---
