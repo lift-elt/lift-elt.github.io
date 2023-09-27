@@ -20,9 +20,9 @@ Free 1-hour virtual events!
 
 *Two experienced EL educators will share examples from their work supporting multilingual student populations and connecting with students' families and communities. Gain ideas and strategies for working with refugee students and developing and sustaining long-term family-school partnerships. Time for discussion and questions will be provided!*
 
-Featured Presentations
-------------
-**Nurturing Relationships and Empowering our Refugee Scholars: A Path to Success**
+### Featured Presentations
+
+#### Nurturing Relationships and Empowering our Refugee Scholars: A Path to Success
 
 Dr. Marissa Winmill, NBCT <br>
 *Educator, Mentor, Coach, Consultant* <br>
@@ -30,7 +30,7 @@ Dr. Marissa Winmill, NBCT <br>
 
 > In a world where displaced individuals often face challenges that go beyond the academic realm, the power of nurturing relationships and empowerment cannot be underestimated. This webinar will explore the profound impact of fostering supportive connections within educational settings, among peers, families, and communities. Discover how these relationships serve as a catalyst for success, propelling refugee scholars towards personal growth, academic excellence, and a brighter future. Through inspiring case studies, insightful strategies, and real-world examples, we will delve into the ways we can collectively create a more inclusive and empowering educational environment for these resilient individuals. Join us to learn, engage, and contribute to a discussion that highlights the incredible potential that lies within nurturing relationships and empowering refugee scholars.
 
-**Creating an Inclusive Culture: One Community's Voice**
+#### Creating an Inclusive Culture: One Community's Voice
 
 Heidi Booker, MS <br>
 *ESL Teacher*<br>

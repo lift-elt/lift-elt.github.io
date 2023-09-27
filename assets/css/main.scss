@@ -50,7 +50,7 @@ $on-laptop: 1000px;
 
 input.register-button:hover {
   background: lightgreen;
-  color: black;
+  color: #485767;
 }
 
 // Use generate filter with: https://isotropic.co/tool/hex-color-to-css-filter/ 
@@ -63,3 +63,10 @@ img.profile.right {
     // next is the same green as the links are 
     filter: invert(19%) sepia(3%) saturate(6584%) hue-rotate(171deg) brightness(43%) contrast(62%);
 }
+
+$heading-color: #485767;
+
+h1, h3 , h2, h4 {
+  color: $heading-color;
+  }
+
