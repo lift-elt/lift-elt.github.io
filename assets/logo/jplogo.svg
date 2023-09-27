@@ -1,0 +1,148 @@
+<svg
+  version="1.0"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="2400"
+  height="1800"
+>
+  <svg
+    version="1.0"
+    xmlns="http://www.w3.org/2000/svg"
+    width="0"
+    height="0"
+    viewBox="0 0 340.000000 250.000000"
+    preserveAspectRatio="xMidYMid meet"
+    color-interpolation-filters="sRGB"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+  >
+    <defs>
+      <pattern
+        id="watermark"
+        patternUnits="userSpaceOnUse"
+        width="100%"
+        height="100%"
+      >
+        <image
+          xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAGQCAYAAAAUdV17AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RTVGN0VCRjlGMjcwMTFFOUIyNjM4MDRGRkI5QkJENjEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RTVGN0VCRkFGMjcwMTFFOUIyNjM4MDRGRkI5QkJENjEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpFNUY3RUJGN0YyNzAxMUU5QjI2MzgwNEZGQjlCQkQ2MSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpFNUY3RUJGOEYyNzAxMUU5QjI2MzgwNEZGQjlCQkQ2MSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pgp++w8AAAPuSURBVHja7NSxDQAACMMw+v/R5QoGJPuEDEnbAfgghgUYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYgGEZFmBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBhmVYgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgUYlgqAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQGGZViAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBRiWYQGGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWYFiGBRgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFiAYakAGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQEYFoBhAYYFYFgAhgUYFoBhARgWYFgAhgVgWIBhARgWgGEBhgVgWIBhARgWgGEBhgVgWACGBRgWgGEBGBZgWACGBWBYgGEBGBaAYQGGBWBYAIYFGBaAYQEYFmBYAIYFYFiAYQFcWgEGAJzsrR2jCcEwAAAAAElFTkSuQmCC"
+          x="0"
+          y="0"
+          width="100%"
+          height="100%"
+        ></image>
+      </pattern>
+    </defs>
+  </svg>
+  <rect
+    x="0"
+    y="0"
+    width="100%"
+    height="100%"
+    fill="rgba(255,255,255,0)"
+    fill-opacity="1"
+  ></rect>
+  <svg
+    version="1.0"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    x="0"
+    y="0"
+    width="2400"
+    height="1800"
+    viewBox="0 0 340.000000 250.000000"
+    preserveAspectRatio="xMidYMid meet"
+    color-interpolation-filters="sRGB"
+  >
+    <defs>
+<linearGradient id="92" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#fa71cd"/> <stop offset="100%" stop-color="#9b59b6"/></linearGradient>
+<linearGradient id="93" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f9d423"/> <stop offset="100%" stop-color="#f83600"/></linearGradient>
+<linearGradient id="94" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#0064d2"/> <stop offset="100%" stop-color="#1cb0f6"/></linearGradient>
+<linearGradient id="95" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f00978"/> <stop offset="100%" stop-color="#3f51b1"/></linearGradient>
+<linearGradient id="96" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#7873f5"/> <stop offset="100%" stop-color="#ec77ab"/></linearGradient>
+<linearGradient id="97" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#f9d423"/> <stop offset="100%" stop-color="#e14fad"/></linearGradient>
+<linearGradient id="98" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#009efd"/> <stop offset="100%" stop-color="#2af598"/></linearGradient>
+<linearGradient id="99" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#ffcc00"/> <stop offset="100%" stop-color="#00b140"/></linearGradient>
+<linearGradient id="100" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#d51007"/> <stop offset="100%" stop-color="#ff8177"/></linearGradient>
+<linearGradient id="102" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#a2b6df"/> <stop offset="100%" stop-color="#0c3483"/></linearGradient>
+<linearGradient id="103" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#7ac5d8"/> <stop offset="100%" stop-color="#eea2a2"/></linearGradient>
+<linearGradient id="104" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#00ecbc"/> <stop offset="100%" stop-color="#007adf"/></linearGradient>
+<linearGradient id="105" x1="0%" y1="0%" x2="100%" y2="0%"><stop
+offset="0%" stop-color="#b88746"/> <stop offset="100%"
+stop-color="#fdf5a6"/></linearGradient></defs> <g fill="#444"
+class="icon-text-wrapper icon-svg-group iconsvg"
+transform="translate(100.63400268554688,71.81199645996094)"><g
+fill="#444" class="iconsvg-imagesvg icon_container"
+transform="translate(31.535995483398438,0)"><rect fill="#444"
+fill-opacity="0" stroke-width="2" x="0" y="0"
+width="75.65999999999998" height="75.65999999999998"
+class="image-rect"/> <svg viewBox="0 0 60 60" x="0" y="0"
+width="75.65999999999998" height="75.65999999999998"
+class="image-svg-svg bn" style="overflow: visible;"><g
+hollow-target="iconBnFill"
+mask="url(#2545ce49-6cc4-495d-a3cc-9343b2e992a6)"><g><svg
+fill="#000000" xmlns:x="http://ns.adobe.com/Extensibility/1.0/"
+xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+xmlns:graph="http://ns.adobe.com/Graphs/1.0/"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0"
+viewBox="5 5 90 90" style="overflow: visible;" xml:space="preserve"
+width="60" height="60" filtersec="colorsf593682473"
+filter="url(#tH2K-trZk6rydYmz4uFzk)"><g transform="scale(1, 1)
+skewX(0)"><g><g i:extraneous="self"><path
+d="M50,5L5,50l45,45l45-45L50,5z"/></g></g></g><defs><filter
+id="tH2K-trZk6rydYmz4uFzk"><feColorMatrix type="matrix" values="0 0 0
+0 0.265625  0 0 0 0 0.265625  0 0 0 0 0.265625  0 0 0 1
+0"/></filter></defs></svg></g> <g filter="url(#colors9098082997)"><svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0
+51.84000000000001 51.912000000000006" width="37.62" height="37.62"
+x="11.190000000000001" y="11.190000000000001"
+class="image-svg-letter"><path transform="translate(-4.104
+51.912000000000006)" d="M55.94 0L4.10
+0L4.10-51.91L9.94-51.91L9.94-5.83L55.94-5.83L55.94
+0Z"/></svg></g></g><mask id="2545ce49-6cc4-495d-a3cc-9343b2e992a6"><g
+fill="white"><svg xmlns:x="http://ns.adobe.com/Extensibility/1.0/"
+xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
+xmlns:graph="http://ns.adobe.com/Graphs/1.0/"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0"
+viewBox="5 5 90 90" style="overflow: visible;" xml:space="preserve"
+width="60" height="60" filtersec="colorsf593682473"><g
+transform="scale(1, 1) skewX(0)"><g><g i:extraneous="self"><path
+d="M50,5L5,50l45,45l45-45L50,5z"/></g></g></g><defs/></svg></g>
+
+<g
+fill="black">
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0
+                                                         51.84000000000001
+                                                         51.912000000000006"
+     width="37.62" height="37.62" x="11.190000000000001"
+     y="11.190000000000001" class="image-svg-letter"><path
+     transform="translate(-4.104 51.912000000000006)" d="M55.94 0L4.10
+     0L4.10-51.91L9.94-51.91L9.94-5.83L55.94-5.83L55.94
+     0Z"/></svg></g>
+</mask></svg>
+
+
+
+<defs><filter id="colors9098082997"><feColorMatrix type="matrix"
+values="0 0 0 0 0.265625  0 0 0 0 0.265625  0 0 0 0 0.265625  0 0 0 1
+0" class="icon-feColorMatrix "/></filter> <filter
+id="colorsf593682473"><feColorMatrix type="matrix" values="0 0 0 0
+0.99609375  0 0 0 0 0.99609375  0 0 0 0 0.99609375  0 0 0 1 0"
+class="icon-fecolormatrix"/></filter> <filter
+id="colorsb9297945545"><feColorMatrix type="matrix" values="0 0 0 0 0
+0 0 0 0 0  0 0 0 0 0  0 0 0 1 0"
+class="icon-fecolormatrix"/></filter></defs></g>
+<g
+transform="translate(0,82.66000366210938)">
+
+<g fill-rule="" class="tp-name iconsvg-namesvg">
+  <g transform="scale(0.8799999999999999)"><g>
+
+              <path d="M 27.2 0 L 2 0 L 2 -25.24 L 4.83 -25.24 L 4.83 -2.84 L 27.2 -2.84 L 27.2 0 Z M 34.96 0 L 32.09 0 L 32.09 -20.3 L 34.96 -20.3 L 34.96 0 Z M 32.09 -24.08 L 32.09 -26.95 L 34.96 -26.95 L 34.96 -24.08 L 32.09 -24.08 Z M 52.41 -24.08 L 44.99 -24.08 Q 44.43 -24.08 44.03 -23.68 Q 43.63 -23.28 43.63 -22.72 L 43.63 -22.72 L 43.63 -20.3 L 52.41 -20.3 L 52.41 -17.43 L 43.63 -17.43 L 43.63 0 L 40.75 0 L 40.75 -22.72 Q 40.75 -24.5 41.98 -25.73 Q 43.2 -26.95 44.99 -26.95 L 44.99 -26.95 L 52.41 -26.95 L 52.41 -24.08 Z M 69.83 -20.3 L 69.83 -17.43 L 61.04 -17.43 L 61.04 -4.24 Q 61.04 -3.68 61.45 -3.27 Q 61.85 -2.87 62.41 -2.87 L 62.41 -2.87 L 69.83 -2.87 L 69.83 0 L 62.41 0 Q 60.62 0 59.4 -1.24 Q 58.17 -2.49 58.17 -4.24 L 58.17 -4.24 L 58.17 -26.95 L 61.04 -26.95 L 61.04 -20.3 L 69.83 -20.3 Z M 75.7 -25.2 L 98.69 -25.2 L 98.69 -22.37 L 78.53 -22.37 L 78.53 -14.04 L 94.74 -14.04 L 94.74 -11.17 L 78.53 -11.17 L 78.53 -2.84 L 98.69 -2.84 L 98.69 0 L 75.7 0 L 75.7 -25.2 Z M 130.67 0 L 105.47 0 L 105.47 -25.24 L 108.31 -25.24 L 108.31 -2.84 L 130.67 -2.84 L 130.67 0 Z M 130.44 -22.37 L 130.44 -25.2 L 155.65 -25.2 L 155.65 -22.37 L 144.48 -22.37 L 144.48 0 L 141.65 0 L 141.65 -22.37 L 130.44 -22.37 Z" transform="translate(-2, 26.950000762939453)"/>
+</g>
+
+</g></g> </g></g><defs v-gra="od"/>
+  </svg>
+</svg>

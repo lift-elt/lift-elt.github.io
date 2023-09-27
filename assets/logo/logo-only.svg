@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 75.66 75.66" width="75.66" height="75.66" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="colors9098082997">
+      <feColorMatrix type="matrix" values="0 0 0 0 0.265625  0 0 0 0 0.265625  0 0 0 0 0.265625  0 0 0 1&#10;0" class="icon-feColorMatrix "/>
+    </filter>
+  </defs>
+  <svg viewBox="0 0 60 60" x="0" y="0" width="75.65999999999998" height="75.65999999999998" class="image-svg-svg bn" style="overflow: visible;" transform="matrix(8.901176901424632, 0, 0, 8.901176901424632, 932.9646929572611, 524.555269129136)">
+    <g hollow-target="iconBnFill" mask="url(#2545ce49-6cc4-495d-a3cc-9343b2e992a6)">
+      <g>
+        <svg fill="#000000" xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="5 5 90 90" style="overflow: visible;" width="60" height="60" filtersec="colorsf593682473" filter="url(#tH2K-trZk6rydYmz4uFzk)">
+          <g transform="scale(1, 1)&#10;skewX(0)">
+            <g>
+              <g>
+                <path d="M50,5L5,50l45,45l45-45L50,5z"/>
+              </g>
+            </g>
+          </g>
+          <defs>
+            <filter id="tH2K-trZk6rydYmz4uFzk">
+              <feColorMatrix type="matrix" values="0 0 0&#10;0 0.265625  0 0 0 0 0.265625  0 0 0 0 0.265625  0 0 0 1&#10;0"/>
+            </filter>
+          </defs>
+        </svg>
+      </g>
+      <g filter="url(#colors9098082997)">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0&#10;51.84000000000001 51.912000000000006" width="37.62" height="37.62" x="11.190000000000001" y="11.190000000000001" class="image-svg-letter">
+          <path transform="translate(-4.104&#10;51.912000000000006)" d="M55.94 0L4.10 0L4.10-51.91L9.94-51.91L9.94-5.83L55.94-5.83L55.94 0Z"/>
+        </svg>
+      </g>
+    </g>
+    <mask id="2545ce49-6cc4-495d-a3cc-9343b2e992a6">
+      <g fill="white">
+        <svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewBox="5 5 90 90" style="overflow: visible;" width="60" height="60" filtersec="colorsf593682473">
+          <g transform="scale(1, 1) skewX(0)">
+            <g>
+              <g>
+                <path d="M50,5L5,50l45,45l45-45L50,5z"/>
+              </g>
+            </g>
+          </g>
+        </svg>
+      </g>
+      <g fill="black">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0&#10;                                                         51.84000000000001&#10;                                                         51.912000000000006" width="37.62" height="37.62" x="11.190000000000001" y="11.190000000000001" class="image-svg-letter">
+          <path transform="translate(-4.104 51.912000000000006)" d="M55.94 0L4.10 0L4.10-51.91L9.94-51.91L9.94-5.83L55.94-5.83L55.94 0Z"/>
+        </svg>
+      </g>
+    </mask>
+  </svg>
+</svg>
