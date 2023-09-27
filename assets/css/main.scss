@@ -52,3 +52,11 @@ input.register-button:hover {
   background: lightgreen;
   color: black;
 }
+
+// Use generate filter with: https://isotropic.co/tool/hex-color-to-css-filter/ 
+// color picker: https://www.google.com/search?q=css+color+picker&oq=&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIRCAAQRRg5GEMYgwEYsQMYigUyBggBEEUYOzIPCAIQABhDGIMBGLEDGIoFMg0IAxAAGIMBGLEDGIAEMgkIBBAAGEMYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyNjU0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+// or https://www.w3schools.com/colors/colors_picker.asp
+img.profile.right {
+  //width: 100px;
+    filter: invert(27%) sepia(69%) saturate(5340%) hue-rotate(211deg) brightness(103%) contrast(107%);
+}
