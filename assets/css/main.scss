@@ -58,5 +58,8 @@ input.register-button:hover {
 // or https://www.w3schools.com/colors/colors_picker.asp
 img.profile.right {
   //width: 100px;
-    filter: invert(27%) sepia(69%) saturate(5340%) hue-rotate(211deg) brightness(103%) contrast(107%);
+    // next is a blue
+    //filter: invert(27%) sepia(69%) saturate(5340%) hue-rotate(211deg) brightness(103%) contrast(107%);
+    // next is the same green as the links are 
+    filter: invert(36%) sepia(99%) saturate(936%) hue-rotate(88deg) brightness(88%) contrast(90%);
 }
