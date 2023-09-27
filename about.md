@@ -3,7 +3,7 @@ layout: about
 permalink: /about/
 profile:
   align: right
-  image: BlueOrangeLogoCropped.png
+  image: square-diag-512.png
 published: true
 ---
 Amber Warren and Natalia Ward began collaborating, presenting and publishing about pedagogy in 2007, while completing Master's degrees at the University of Tennessee, Knoxville. While working as English language teachers, they co-founded an after-school Book Club for English Learners, co-developed [multimodal projects to connect students' home and school communities](http://newsmanager.commpartners.com/tesolbeis/issues/2013-08-28/7.html), and [promoted students’ use of digital technologies in content-based instruction](https://books.google.com/books?hl=en&lr=&id=b3r-DwAAQBAJ&oi=fnd&pg=PT250&dq=amber+warren+natalia+ward+multiliteracies&ots=I07OAMlH19&sig=OBpg0rTTSnCd6kictIqyYFjtkZ0#v=onepage&q=amber%20warren%20natalia%20ward%20multiliteracies&f=false).
