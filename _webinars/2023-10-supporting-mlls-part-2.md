@@ -31,7 +31,7 @@ Robin Schell, PhD <br>
 *Visiting Assistant Professor*<br>
 *Miami University, OH*<br>
 
-> Summary of presentation coming soon!
+> Engaging SIFE/SLIFE students in critical literacy projects based on their own interests and lived experiences can lead to rich interdisciplinary learning, critical thinking, and English language development. Motivation is the key to the success of this practice. This session will reference successful projects and guide participants in identifying opportunities for implementation in their own contexts.
 
 ### Meet our Featured Speakers ###
 **Jamie Wolfe, EdS** is Knox County Schools ELL instructional coach with 21 years of classroom experience working with English Language Learners. She obtained her EdS in Reading Education, MS in Elementary Education, and BA in English Literature from the University of Tennessee, Knoxville.
