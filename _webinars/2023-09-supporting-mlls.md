@@ -9,20 +9,21 @@ redirect_from:
 
 ---
 
-Free 1-hour virtual events!
 
 ## Fall Kick-off Webinar: <br> 
 ### Supporting Multilingual Students in Schools and Classrooms
 
 #### Monday, September 18, 2023 5:30pm Eastern/4:30pm Central
 
-<p style="text-align: center;"><input class="register-button" type="button" onclick="location.href='https://forms.gle/mbiWYcfNFgBuLfbx8';" value="Register Here" /></p>
+Thank you for joining us! 
 
-*Two experienced EL educators will share examples from their work supporting multilingual student populations and connecting with students' families and communities. Gain ideas and strategies for working with refugee students and developing and sustaining long-term family-school partnerships. Time for discussion and questions will be provided!*
+
+*Two experienced EL educators share examples from their work supporting multilingual student populations and connecting with students' families and communities, including ideas and strategies for working with refugee students and developing and sustaining long-term family-school partnerships.*
 
 ### Featured Presentations
 
 #### Nurturing Relationships and Empowering our Refugee Scholars: A Path to Success
+Here is a link to [Dr. Winmill's presentation and materials](/assets/others/MarissaWinmill_NurturingRelationshipstoEmpowerMLScholars.pdf)
 
 Dr. Marissa Winmill, NBCT <br>
 *Educator, Mentor, Coach, Consultant* <br>
