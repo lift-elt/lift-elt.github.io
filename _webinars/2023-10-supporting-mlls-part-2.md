@@ -39,5 +39,5 @@ Robin Schell, PhD <br>
 
 <hr  style="width:50%">
 
-**Robin Schell** Ph.D. in Education with a concentration in Literacy Studies and specialization in English as a Second Language. She is a licensed PreK-12 ESL Teacher with 9 years experience working with students with limited and intterupted formal education (SIFE/SLIFE). 
+**Robin Schell** Ph.D. in Education with a concentration in Literacy Studies and specialization in English as a Second Language. She is a licensed PreK-12 ESL Teacher with 9 years experience working with students with limited and interrupted formal education (SIFE/SLIFE). 
 
