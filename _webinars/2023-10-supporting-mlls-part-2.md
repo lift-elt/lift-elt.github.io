@@ -4,20 +4,20 @@ title: Supporting SIFE/SLIFE in schools and classrooms <br> Nov. 6, 2023
 description: Free 1-hour virtual event
 ---
 
-Free 1-hour virtual event!
-
 ## Continuing Series: <br> 
 ### Supporting Multilingual Students in Schools and Classrooms
 
 #### Monday, November 6, 2023 5:30pm Eastern/4:30pm Central
 
-<p style="text-align: center;"><input class="register-button" type="button" onclick="location.href='https://forms.gle/SwWdFEyyRTMrEqKd9';" value="Register Here" /></p>
+Thank you for joining us!
 
-*Join us as two experienced EL educators share stories and expertise through practical examples from their work supporting multilingual student populations and connecting with students' families and communities. Gain ideas and strategies for making EL/classroom teacher co-teaching models work and for supporting students' developing literacy practices. Time for discussion and questions will be provided!*
+*Two experienced EL educators share stories and expertise through practical examples from their work supporting multilingual student populations and connecting with students' families and communities. Gain ideas and strategies for making EL/classroom teacher co-teaching models work and for supporting students' developing literacy practices. Time for discussion and questions will be provided!*
 
 Featured Presentations
 ------------
 ### Supporting Students with Interrupted Formal Education through Co-Teaching
+
+Here is a link to [Jamie Wolfe's presentation materials](/assets/others/JamieWolfe_CoTeaching.pptx)
 
 Jamie Wolfe, EdS <br>
 *Instructional Coach* <br>
@@ -30,6 +30,8 @@ Jamie Wolfe, EdS <br>
 Robin Schell, PhD <br>
 *Visiting Assistant Professor*<br>
 *Miami University, OH*<br>
+
+Here is a link to [Dr. Schell's presentation materials](/assets/others/RobinSchell_ChoiceandVoice.pptx)
 
 > Engaging SIFE/SLIFE students in critical literacy projects based on their own interests and lived experiences can lead to rich interdisciplinary learning, critical thinking, and English language development. Motivation is the key to the success of this practice. This session will reference successful projects and guide participants in identifying opportunities for implementation in their own contexts.
 
