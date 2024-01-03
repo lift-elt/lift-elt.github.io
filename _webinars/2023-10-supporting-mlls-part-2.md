@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supporting SIFE/SLIFE in schools and classrooms <br> Nov. 6, 2023
+title: Supporting SIFE/SLIFE Students <br> Nov. 6, 2023
 description: Free 1-hour virtual event
 ---
 

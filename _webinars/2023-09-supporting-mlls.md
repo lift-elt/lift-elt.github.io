@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supporting MLLs in schools and classrooms <br> Sept. 18, 2023
+title: Supporting MLLs in Schools and Classrooms <br> Sept. 18, 2023
 description: Free 1-hour virtual event
 
 redirect_from: 
