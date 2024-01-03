@@ -18,21 +18,21 @@ description: Free 1-hour virtual event
 
 Panel Presenters:
 
-Amber Warren, PhD <br>
-*Associate Professor of the Practice* <br>
-*Vanderbilt University, TN* <br>
+- Amber Warren, PhD,
+*Associate Professor of the Practice*,
+*Vanderbilt University, TN*.
 
-Natalia Ward, PhD <br>
-*Associate Professor*<br>
-*ETSU, TN*<br>
+- Natalia Ward, PhD,
+*Associate Professor*,
+*ETSU, TN*.
 
-Shuling Yang, PhD <br>
-*Assistant Professor*<br>
-*ETSU, TN*<br>
+- Shuling Yang, PhD,
+*Assistant Professor*,
+*ETSU, TN*.
 
-Maria Jose Dias <br>
-*PhD Candidate*<br>
-*ETSU, TN*<br>
+- Maria Jose Dias,
+*PhD Candidate*,
+*ETSU, TN*.
 
 ### Meet our Featured Speakers ###
 More info coming soon!
