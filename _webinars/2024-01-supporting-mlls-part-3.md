@@ -9,12 +9,14 @@ description: Free 1-hour virtual event
 
 #### Tuesday, January 30, 2024 5:30pm Eastern/4:30pm Central
 
-<p style="text-align: center;"><input class="register-button" type="button" onclick="location.href='https://forms.gle/sFB6TQJD1iNMAAnZA';" value="Register Here" /></p>
+Thank you for joining us!
 
-*Don't miss this opportunity to explore how to use multicultural picture books to promote English learners' literacy, language, and social-emotional development. Panel presenters discuss books they have used with classroom teacher collaborators and share ways to use these texts in classrooms with multilingual learners.  Time for discussion and questions will be provided!*
+*In this session, presenters explored how to use multicultural picture books to promote English learners' literacy, language, and social-emotional development.*
 
 ------------
 ### Using multicultural picture books to promote English learners' literacy, language, and social and emotional development 
+
+[Here is a link to the session materials](/assets/others/UsingMulticulturalPictureBooks.pdf)
 
 Panel Presenters:
 
@@ -34,7 +36,6 @@ Panel Presenters:
 *PhD Candidate*,
 *ETSU, TN*.
 
-### Meet our Featured Speakers ###
-More info coming soon!
+
 
 
